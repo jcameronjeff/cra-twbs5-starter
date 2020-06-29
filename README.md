@@ -8,6 +8,8 @@ I'll try to update and add more options as bootstrap 5 progresses.
 
 For more information on Bootstrap 5 alpha, see their [docs](https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/)
 
+Stable on node 12.
+
 ## Other resources
 
 - twbs v5: [source code](https://github.com/twbs/bootstrap/tree/v5.0.0-alpha1)
