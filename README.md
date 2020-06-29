@@ -2,7 +2,9 @@
 
 I decided to whip together this Bootstrap 5 starter to start exploring and following the changes in the popular framework.
 
-This starter uses bootstrap@v5.0.0-alpha. node-sass, and yarn 2. I went with yarn 2 since this starter isn't meant for production use.
+This starter uses bootstrap @v5.0.0-alpha. node-sass, and yarn 2. I went with yarn 2 since this starter isn't meant for production use.
+
+I'll try to update and add more options as bootstrap 5 progresses.
 
 For more information on Bootstrap 5 alpha, see their [docs](https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/)
 
