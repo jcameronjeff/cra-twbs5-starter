@@ -1,6 +1,6 @@
 # Create-React-App Bootstrap v5 sass starter
 
-I decided to whip together a [Bootstrap v5 alpha starter](https://github.com/jcameronjeff/cra-twbs5-starter) to begin exploring and following the changes in the popular framework. Read their announcement on the [Bootstrap Blog](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
+I decided to whip together a [Bootstrap v5 alpha starter](https://github.com/jcameronjeff/cra-twbs5-starter) to begin exploring and following the changes in the popular framework. Read their announcement on the [Bootstrap Blog](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/).
 
 This starter uses bootstrap @v5.0.0-alpha. node-sass, and yarn 2. I went with yarn 2 since this starter isn't meant for production use.
 
