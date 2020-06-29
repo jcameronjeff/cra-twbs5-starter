@@ -1,6 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Create-React-App Bootstrap v5 sass starter
 
-## Available Scripts
+I decided to whip together this Bootstrap 5 starter to start exploring and following the changes in the popular framework.
+
+This starter uses bootstrap@v5.0.0-alpha. node-sass, and yarn 2. I went with yarn 2 since this starter isn't meant for production use.
+
+For more information on Bootstrap 5 alpha, see their [docs](https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## Other resources
+
+- twbs v5: [source code](https://github.com/twbs/bootstrap/tree/v5.0.0-alpha1)
+- Yarn v2: [Introduction](https://yarnpkg.com/getting-started/)
+- React/Create-React-App: [Create a New React App](https://reactjs.org/docs/create-a-new-react-app.html)
+
+## Scripts
 
 In the project directory, you can run:
 
@@ -36,33 +48,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
